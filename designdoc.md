@@ -6,6 +6,9 @@ AppCode
 ## Language
 Swift
 
+## Slack
+Hahahaha... no.
+
 ## Style Guide
 - Use 4 spaces for tabs
 - Max 160 characters per line
